@@ -80,5 +80,10 @@ ________________________________________________________________________________
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## To clone, run following
+```
+git clone https://github.com/shoryasethia/fashion-mnist
+cd fashion-mnist
+```
 ## Author : [@shoryasethia](https://github.com/shoryasethia)
 > **If anything helps you from this repo, do give it a star**
