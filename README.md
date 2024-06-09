@@ -6,6 +6,20 @@ This repository contains code for training Multi-Layer Perceptron (MLP) models o
 
 Fashion MNIST provides a more challenging alternative to the classic handwritten digits of MNIST. While both datasets share a similar structure, Fashion MNIST introduces more complex patterns and shapes, making it a more realistic representation of real-world image classification tasks. Additionally, Fashion MNIST helps researchers and practitioners evaluate the performance of machine learning algorithms in domains beyond digit recognition, such as fashion and clothing classification.
 
+#### [Classes](https://github.com/shoryasethia/fashion-mnist/blob/main/class_list.py) in fashion-mnist
+```
+class_names = ['T-shirt/top', 
+               'Trouser',
+               'Pullover', 
+               'Dress', 
+               'Coat', 
+               'Sandal', 
+               'Shirt', 
+               'Sneaker', 
+               'Bag', 
+               'Ankle boot']
+```
+
 #### Loading Fashion-Mnist
 ```
 (X_train, y_train),(X_test,y_test) = datasets.fashion_mnist.load_data()
