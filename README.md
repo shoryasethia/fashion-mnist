@@ -67,6 +67,8 @@ The repository contains implementations of three MLP models: `mlp1`, `mlp2`, and
 | MLP2    | [mlp2.py](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp2.py)|0.8848999738693237| [.h5](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp2-fashion-mnist.h5)| 
 | MLP3    | [mlp3.py](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp3.py)|0.8859000205993652 | [.h5](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp3-fashion-mnist.h5)| 
 
+> **[Conclusion](https://github.com/shoryasethia/fashion-mnist/blob/main/fashio-mnist.ipynb) : All three models (mlp1, mlp2, mlp3) are bit in-accurate in distinguishing between shirt/t-shirt/pullover/coat**
+
 ## Results
 >* model1 : mlp1
 >* model2 : mlp2
