@@ -43,7 +43,7 @@ model.add(Dropout(0.20))
 > **It Drops 20% of total neurons from previous layer**
 ## Models
 
-The repository contains implementations of three MLP models: `mlp1`, `mlp2`, and `mlp3`.
+The repository contains implementations of three MLP models: `mlp1`, `mlp2`, and `mlp3` in [this](https://github.com/shoryasethia/fashion-mnist/blob/main/fashio-mnist.ipynb) notebook.
 
 
 
