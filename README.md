@@ -54,6 +54,10 @@ The repository contains implementations of three MLP models: `mlp1`, `mlp2`, and
 | MLP3    | [mlp3.py](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp3.py)|0.8859000205993652 | [.h5](https://github.com/shoryasethia/fashion-mnist/blob/main/mlp3-fashion-mnist.h5)| 
 
 ## Results
+>* model1 : mlp1
+>* model2 : mlp2
+>* model3 : mlp3
+![History vs Epochs](https://github.com/shoryasethia/fashion-mnist/blob/main/f343f54a-b101-4c96-b52d-c0545166135c.png)
 ___________________________________________________________________________________________________________________________________________________________
 ## License
 
