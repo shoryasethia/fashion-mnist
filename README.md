@@ -24,7 +24,7 @@ class_names = ['T-shirt/top',
 ```
 (X_train, y_train),(X_test,y_test) = datasets.fashion_mnist.load_data()
 ```
-![fashion-mnist-dataset]()
+![fashion-mnist-dataset](https://github.com/shoryasethia/fashion-mnist/blob/main/dataset-in-one.jpg)
 ## Comparison with MNIST
 
 Compared to the MNIST dataset, Fashion MNIST offers several advantages:
